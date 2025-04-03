@@ -1,4 +1,4 @@
-### Cloud and Infra
+### **Cloud and Infra**
 
 ### **1. Cloud Security Fundamentals (Azure)**
    - **Shared Responsibility Model**: Understand what security responsibilities lie with the cloud provider vs. the customer.
@@ -40,9 +40,7 @@
 ---
 
 
-### @@ SUMMARY OF CLOUD AND INFRA
-
-
+###  **SUMMARY OF CLOUD AND INFRA**
 
 ### **1. Cloud Security Fundamentals (Azure)**  
 Cloud security is built on the **Shared Responsibility Model**, where cloud providers secure infrastructure, but customers must protect their data, identities, and applications. **Identity & Access Management (IAM)** enforces role-based access control (**RBAC**) and the principle of least privilege to minimize risk. Data security relies on **encryption (at rest and in transit)**, with services like **Azure Key Vault** managing cryptographic keys securely. Cloud networks are safeguarded using **Virtual Networks (VNets), Network Security Groups (NSG), and Private Endpoints**, restricting unauthorized access. Security monitoring tools like **Microsoft Defender for Cloud** continuously scan for misconfigurations and threats to maintain compliance and reduce attack surfaces.  
