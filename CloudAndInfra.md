@@ -1,4 +1,4 @@
-### **Cloud and Infra**
+### **CLOUD AND INFRA**
 
 ### **1. Cloud Security Fundamentals (Azure)**
    - **Shared Responsibility Model**: Understand what security responsibilities lie with the cloud provider vs. the customer.
