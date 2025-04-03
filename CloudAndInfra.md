@@ -1,4 +1,4 @@
-### CLOUD AND INFRA
+ ###<span style="color:red;">Cloud and Infra</span>
 ### **1. Cloud Security Fundamentals (Azure)**
    - **Shared Responsibility Model**: Understand what security responsibilities lie with the cloud provider vs. the customer.
    - **IAM (Identity & Access Management)**: Role-based access control (RBAC), least privilege principle.
