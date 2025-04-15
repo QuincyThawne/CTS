@@ -1,4 +1,4 @@
-#### DATA PROTECTION AND PRIVACY
+### DATA PROTECTION AND PRIVACY
 ---
 
 ### 🛡️ **Data Protection & Privacy**  
