@@ -165,8 +165,8 @@ Used to meet regulatory and security objectives.
 - Enables data-centric security across hybrid environments.
 
 ---
-
-
+80/20
+---
 ### 🛡️ 1. **Core of Data Protection & Privacy**
 - **Goal**: Protect data **at rest**, **in transit**, and **in use** from unauthorized access, modification, or destruction.
 - **Privacy** ensures that personal data is handled according to regulations (e.g., GDPR, HIPAA).
